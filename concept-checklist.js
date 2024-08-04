@@ -10,3 +10,4 @@ two conditions case-1 fullfill both conditions case-2 fullfill atleast one condi
  use any for loop to display every elements of an array.
  you have an array of numbers. display only the numbers bigger than 80
  write a function that takes three numbers return the multiplication of the three numbers 
+ f
